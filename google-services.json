@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210226197268",
+    "project_id": "sowapoapp",
+    "storage_bucket": "sowapoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210226197268:android:98879604a58e94f281c801",
+        "android_client_info": {
+          "package_name": "com.sowapo.sowapoApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFzCzLZUwR4LkFdjUgPpG_2GXxSUBR9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210226197268:android:9e9e6d8f05ff36e881c801",
+        "android_client_info": {
+          "package_name": "com.sowapo.sowapoBrandApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFzCzLZUwR4LkFdjUgPpG_2GXxSUBR9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

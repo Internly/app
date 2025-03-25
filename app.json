@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "internly app",
+    "slug": "internly-app",
+    "newArchEnabled": true,
+    "version": "1.0.01",
+    "orientation": "portrait",
+    "icon": "./assets/icons/appIcon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/icons/sowapo-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.internly.internlyApp",
+      "NSCameraUsageDescription ": " internly needs access to your camera to verify your identitty"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/appIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.internly.internlyApp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f75a2b50-cf4f-414e-8474-d97a0f4f3c02"
+      }
+    },
+    "scheme": "internly",
+    "runtimeVersion": "sdkVersion",
+    "updates": {
+      "fallbackToCacheTimeout": 1,
+      "url": "https://u.expo.dev/f75a2b50-cf4f-414e-8474-d97a0f4f3c02"
+    }
+  }
+}
