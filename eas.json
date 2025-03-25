@@ -5,14 +5,14 @@
       "distribution": "internal",
       "channel": "development",
       "env": {
-        "EXPO_PUBLIC_REMOTE_URL": "https://sowapo-server.onrender.com/api"
+        "EXPO_PUBLIC_REMOTE_URL": "https://internly-server.onrender.com/api"
       }
     },
     "preview": {
       "channel": "preview",
       "distribution": "internal",
       "env": {
-        "EXPO_PUBLIC_REMOTE_URL": "https://sowapo-server.onrender.com/api"
+        "EXPO_PUBLIC_REMOTE_URL": "https://internly-server.onrender.com/api"
       },
       "ios": {
         "simulator": true
@@ -24,7 +24,7 @@
     "production": {
       "channel": "production",
       "env": {
-        "EXPO_PUBLIC_REMOTE_URL": "https://sowapo-server.onrender.com/api"
+        "EXPO_PUBLIC_REMOTE_URL": "https://internly-server.onrender.com/api"
       }
     }
   },
